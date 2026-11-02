@@ -1,2 +1,6 @@
-<h1 style="display: inline;">GDOAP: </h1>
-<h2 style="display: inline; margin-left: 10px;">Goal Disposition Oriented Action Planning</h2>
+<table>
+  <tr>
+    <td><h1>GDOAP</h1></td>
+    <td><p size="5">Goal Disposition Oriented Action Planning</p></td>
+  </tr>
+</table>
