@@ -1,4 +1,2 @@
-<h1>
-  <span>GDOAP</span> 
-  <span style="font-size: 0.6em; font-weight: normal; color: gray;">Goal Disposition Oriented Action Planning</span>
-</h1>
+<h1 style="display: inline;">GDOAP: </h1>
+<h2 style="display: inline; margin-left: 10px;">Goal Disposition Oriented Action Planning</h2>
