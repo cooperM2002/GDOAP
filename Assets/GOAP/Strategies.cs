@@ -107,5 +107,10 @@ public class AttackStrategy : IActionStrategy {
         timer.OnTimerStop += () => Complete = true;
     }
 
+    public void Start() {
+        timer.Start();
+        animations.Attack();
+    }
+
     public void Update(float deltaTime) => timer.Tick(deltaTime);
 }

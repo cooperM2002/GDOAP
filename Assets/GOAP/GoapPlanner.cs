@@ -45,7 +45,7 @@ public class GoapPlanner : IGoapPlanner {
         // Order actions by cost, ascending
         IOrderedEnumerable<AgentAction> orderedActions = actions.OrderBy(action => action.Cost);
 
-        foreach (AgentAction action in actions) {
+        foreach (AgentAction action in orderedActions) {
             HashSet<AgentState> requiredEffects = parent.RequiredEffects;
 
 
