@@ -1,12 +1,5 @@
-<table>
-  <tr>
-    <td><h1>GDOAP</h1></td>
-    <td><p size="1">Goal Disposition Oriented Action Planning</p></td>
-  </tr>
-</table>
+# GDOAP
 
-## test
+### Goal Disposition Action Oriented Planning
 
-### test
 
-#### test
