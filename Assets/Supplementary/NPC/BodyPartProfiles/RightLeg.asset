@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e10911a223b360440aefc69b1e099c02, type: 3}
+  m_Name: RightLeg
+  m_EditorClassIdentifier: Assembly-CSharp::BodyPartProfile
+  part: 5
+  conditionOnHit: 2
+  movementSpeedMultiplier: 0.5
+  conditionPersists: 1
+  conditionDuration: 3
+  damageMultiplier: 1
+  alwaysLethal: 0
+  reverseDirection: 1
+  forceMultiplier: 1
+  musclePower: 1
+  bulletHitVfxPrefab: {fileID: 4727548981512460484, guid: cec598671d8ced042ae24b98f75ddacd, type: 3}
+  secondaryBloodEffect: {fileID: 4727548981512460484, guid: 9ff69692a0a5121499d03c49233ef99f, type: 3}
+  primaryHitSound: {fileID: 8300000, guid: ccb119b74f535c64b89d0b1e41781337, type: 3}
+  secondaryHitSound: {fileID: 0}
+  primaryCollidedSound: {fileID: 0}
